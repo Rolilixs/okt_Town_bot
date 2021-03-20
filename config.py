@@ -1,5 +1,5 @@
 ADMINISTRATORS = ["", ""]
-TOKEN = "920496665:AAHyvdirXQoitrFe4iUX9AnXYUZLU6v49sA"
+TOKEN = ""
 
 message_welcome = "Привет! \nЯ официальный бот гильдии \"oktTown\"! \n\nВыбери одну из кнопок ниже:"
 message_help = """
